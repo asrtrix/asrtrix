@@ -1,116 +1,91 @@
-# Hi, I'm Anlson Rodriks 👋
+# Hi, I'm Anluan Rodrigues 👋
 
-🎓 BTech in Data Science & Engineering  
-📍 Dubai, UAE  
-📊 Data Analytics | Business Intelligence | Automation  
-⚙️ Python • SQL • Tableau • Power BI • Excel • Power Automate
+🎓 BTech in Data Science & Engineering, MIT Manipal · 🔗 [github.com/asrtrix](https://github.com/asrtrix) · [LinkedIn](https://linkedin.com/in/anluan-rodrigues-9b6977300)
 
-## About Me
+---
 
-I'm a recent Data Science & Engineering graduate passionate about turning data into actionable business insights. I enjoy working on analytics, dashboarding, automation, and data-driven decision-making.
+## About me
 
-I’ve worked on finance automation, business reporting, supply chain and HR analytics, and deep learning projects. My experience includes building dashboards, automating workflows, analyzing business performance, and uncovering insights that improve efficiency and support smarter decisions.
+Recent Data Science & Engineering graduate with hands-on experience turning raw data into business decisions. I've shipped dashboards, automated finance workflows, and built deep learning pipelines — across supply chain, HR, and financial reporting domains.
 
-## What I Do
+I'm most at home when I'm bridging the gap between data complexity and clear, actionable outcomes.
 
-- Build interactive dashboards in **Power BI**, **Tableau**, and **Excel**
-- Analyze structured data using **Python**, **SQL**, and spreadsheets
-- Automate repetitive workflows using **Power Automate** and **n8n**
-- Translate business problems into clear, data-backed insights
-- Work on applied machine learning and real-world analytics projects
+---
 
-## Tech Stack
+## What I build
 
-### Languages
-- Python
-- C++
-- SQL
+- Interactive dashboards in **Power BI**, **Tableau**, and **Excel**
+- Data pipelines and analysis using **Python**, **SQL**, and **BigQuery**
+- Automated workflows with **Power Automate** and **n8n**
+- Applied ML and deep learning models for real-world use cases
 
-### Data Analysis & Visualization
-- Power BI
-- Tableau
-- Microsoft Excel
+---
 
-### Databases
-- PostgreSQL
-- SQLite
-- BigQuery
+## Tech stack
 
-### Automation & Tools
-- Power Automate
-- n8n
-- TensorFlow
+```
+Languages        Python · SQL · C++
+Visualization    Power BI · Tableau · Excel
+Databases        PostgreSQL · BigQuery · SQLite
+Automation / ML  Power Automate · n8n · TensorFlow
+```
+
+---
 
 ## Experience
 
 ### Finance Automation & Data Analytics Intern — Apparel Group, Dubai
 **Jul 2025 – Oct 2025**
-- Built Excel and Power BI dashboards to track invoice cycles across departments
-- Improved reporting efficiency by **30%**
-- Automated invoice workflows using Power Automate
-- Saved **7+ hours per week** and reduced manual entry errors
-- Helped improve vendor registration and onboarding visibility through dashboard integration
+
+- Built Power BI & Excel dashboards for invoice cycle tracking — improved reporting efficiency by **30%**
+- Automated invoice workflows in Power Automate, saving **7+ hours/week** and cutting manual entry errors
+- Integrated vendor onboarding visibility into dashboards, streamlining registration workflows
 
 ### Data Analysis Intern — Unified Mentor
 **Jul 2024 – Sep 2024**
-- Cleaned and analyzed supply chain and HR datasets
-- Built interactive Tableau dashboards for business insights
-- Identified skincare as the top-performing category contributing **44.97%** of revenue
+
+- Cleaned and analyzed supply chain & HR datasets; built Tableau dashboards for business stakeholders
+- Identified skincare as the top revenue category at **44.97%** of total revenue
 - Found a strong correlation (**r = 0.88**) between lead times and order quantities
-- Analyzed workforce diversity and customer purchase trends for better targeting
 
-## Featured Projects
+---
 
-### Deforestation Monitoring with Deep Learning on Satellite Imagery
-**Python, TensorFlow**
-- Benchmarked six deep learning models for forest-cover segmentation
-- Processed Sentinel-2 satellite imagery and land-cover datasets
-- Evaluated model performance using **mIoU** and **accuracy**
-- Built for environmental monitoring and deforestation detection use cases
+## Featured projects
 
-### Marketing Funnel & Revenue Optimization Analysis
-**BigQuery**
-- Performed end-to-end funnel analysis across acquisition channels
-- Identified a key bottleneck at **31.8% View-to-Cart conversion**
-- Found that **Email** had the highest purchase intent (**63%**)
-- Measured metrics like **Average Order Value ($107)** and **Revenue per Visitor ($17)**
-- Delivered recommendations for marketing budget optimization
+### Deforestation monitoring with deep learning
+`Python · TensorFlow · Sentinel-2`
 
-### Bank Loan Portfolio Analysis Dashboard
-**Excel**
-- Designed an interactive dashboard analyzing loan performance across **30+ U.S. states**
-- Tracked applications, funded amounts, repayment performance, and DTI ratios
-- Highlighted lending and borrower trends using KPI-based analysis
+Benchmarked six deep learning models for forest-cover segmentation on satellite imagery. Evaluated using mIoU and accuracy for environmental monitoring use cases.
+
+### Marketing funnel & revenue optimization
+`BigQuery · SQL`
+
+End-to-end funnel analysis across acquisition channels. Found a **31.8%** View-to-Cart bottleneck, Email at **63%** purchase intent, AOV of **$107**, and revenue per visitor of **$17**.
+
+### Bank loan portfolio dashboard
+`Excel`
+
+Interactive dashboard across 30+ U.S. states tracking loan applications, funded amounts, repayment performance, and DTI ratios through KPI-driven analysis.
+
+---
 
 ## Certifications
 
 - Tableau Business Intelligence Analyst Professional Certificate
-- Introduction to Relational Database and SQL
+- Introduction to Relational Databases and SQL
 - Exploratory Data Analysis in SQL
-
-## Areas of Interest
-
-- Data Visualization
-- Business Data Analytics
-- Database Management
-- Workflow Automation
-
-## Languages
-
-- English
-- Konkani
-- Hindi
-- Arabic
-
-## Connect With Me
-
-- GitHub: [asrtrix](https://github.com/asrtrix)
-- LinkedIn: LinkedIn/anls
 
 ---
 
-### Profile Motto
-**Turning data into insights, dashboards into decisions, and workflows into automation.**
+## Languages
+
+English · Konkani · Hindi · Arabic
+
+---
+
+> *"Turning data into insights, dashboards into decisions, and workflows into automation."*
+
+
 
 
 <!--
